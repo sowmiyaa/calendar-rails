@@ -53,10 +53,7 @@ GEM
     mime-types (1.25.1)
     minitest (5.7.0)
     multi_json (1.11.0)
-<<<<<<< HEAD
     pg (0.18.1)
-=======
->>>>>>> 250910f5f42795e763de2e5f19c662043257ad95
     polyglot (0.3.5)
     rack (1.5.3)
     rack-test (0.6.3)
@@ -71,14 +68,11 @@ GEM
       bundler (>= 1.3.0, < 2.0)
       railties (= 4.1.1)
       sprockets-rails (~> 2.0)
-<<<<<<< HEAD
     rails_12factor (0.0.3)
       rails_serve_static_assets
       rails_stdout_logging
     rails_serve_static_assets (0.0.4)
     rails_stdout_logging (0.0.3)
-=======
->>>>>>> 250910f5f42795e763de2e5f19c662043257ad95
     railties (4.1.1)
       actionpack (= 4.1.1)
       activesupport (= 4.1.1)
@@ -128,13 +122,9 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jquery-rails
-<<<<<<< HEAD
   pg (= 0.18.1)
   rails (= 4.1.1)
   rails_12factor
-=======
-  rails (= 4.1.1)
->>>>>>> 250910f5f42795e763de2e5f19c662043257ad95
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   spring

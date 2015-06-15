@@ -6,19 +6,60 @@
 background:url(http://s3.amazonaws.com/codecademy-blog/assets/puppy-main_zps26d178c5.jpg);
 background-size:cover;
 height:800px;
+font-style:bold;
+font-size:40px;
+color:black;
 }
 .nav{
 	list-style-type:none;
 	margin:0;
 	padding:20px;
+ background:black;
 }
 
 .nav li{
-	color:black;
+	color:pink;
 	display:inline;
 	font-family:'Raleway', sans-serif;
 	font-weight:600;
 	font-size:12px;
 	margin-right:25px;
 	text-transform:uppercase;
+  background-color:black;
+}
+.about {
+
+ background:url(http://animalia-life.com/data_images/tiger/tiger8.jpg);
+ background-size:cover;
+ height:500px;
+ }
+ .footer{
+background-color: #FFF;
+box-sizing: border-box;
+color: #333;
+font-family: "Roboto",sans-serif;
+font-size: 14px;
+font-weight: 300;
+height: 200px;
+line-height: 20px;
+text-align:left;
+width: 946px;
+}
+.about p{
+color:red;
+font-size:50px;
+}
+.details {
+background:url(http://thumbs.dreamstime.com/z/white-rabbit-grass-1747633.jpg);
+background-size:cover;
+height:800px;
+}
+.details p{
+color:blue;
+font-size:50px;
+}
+.contact {
+background:url(http://racethemega.com/wp-content/uploads/2014/08/contact.jpg);
+background-size:cover;
+height:500px;
 }
